@@ -1,6 +1,11 @@
-#include <stdio.h>
+#include "main.h"
+//double absolute_value(double x);
+//#include <stdio.h>
+
 
 int main(void){
-        printf("Hallo world\n");
+        double x = -2./3;
+        printf("The absolute value of %lf is %lf \n", x, absolute_value(x));
+        printf("hallo world\n");
         return 0;
 }

@@ -1,0 +1,2 @@
+C:\Users\trvan\AppData\Local\Temp\ccmFAtJO.o:main.c:(.text+0x13): undefined reference to `foo'
+collect2.exe: error: ld returned 1 exit status

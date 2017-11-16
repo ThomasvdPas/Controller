@@ -1,6 +1,7 @@
-#ifndef main_H   /* Include guard */
-#define main_H
+#ifndef MAIN_H   /* Include guard */
+#define MAIN_H
 
-include <stdio.h>  /* An example function declaration */
+#include <stdio.h>
+double absolute_value(double x);
 
-#endif // main_H
+#endif // MAIN_H
