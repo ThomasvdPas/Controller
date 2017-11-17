@@ -2,6 +2,5 @@
 #define MAIN_H
 
 #include <stdio.h>
-double absolute_value(double x);
-
+#include "absolute_value.h"
 #endif // MAIN_H
